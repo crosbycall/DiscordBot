@@ -1,0 +1,1075 @@
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\vendingmachine.exe.config
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\obj\Debug\vendingmachine.csprojResolveAssemblyReference.cache
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\vendingmachine.exe
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\vendingmachine.pdb
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Discord.Net.Commands.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Discord.Net.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Newtonsoft.Json.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\RestSharp.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\WebSocket4Net.dll
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Newtonsoft.Json.xml
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.xml
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\RestSharp.xml
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\obj\Debug\vendingmachine.exe
+c:\users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\obj\Debug\vendingmachine.pdb
+C:\Users\peppe_000\Documents\Visual Studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\Discord.Net.Audio.dll
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\venpics\test.png
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\venpics\test1.jpg
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\(ﾉ＾∇＾)ﾉ☎------[](;￣Д￣).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\0x40 Hues of Halloween.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\10men1pussy.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\11210946_43498671668.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\12392133_1005383992867412_2021627433_n.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\1996.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\4chan trash talk.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\4chans English Lessons..swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\6RainyMorning.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\A woman walking.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\afterglow.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\airpressure.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\All In The Value.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\all you can do is live with it.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\AMV - Do you take it.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\anime skeleton.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Anon and his bro.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Another Heart Breaks.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Another One.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\antidisestablishmentarianism.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\April_12th.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\aquarian field WIP.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Araragi kun.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\are you that woman.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Aria.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Arita.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\asking the real questions.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Assylum Demon.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\attack on blacks - japan(1).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\attack on home run derby.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\aussie have talent.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Baby I&#039;m Yours.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\backyard_beats.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\BADTIME.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Ball Star.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Bebop Blues.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Beef Stroganoff.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Before You Snap.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\BERZERKAAAR.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Best of Pixel Maritan.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Birdmania Reach.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\black dance.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\BLBLBLBLBLLBLBLBLBLBLBLBLBLLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLLBLBLBLBLBLBLBLBLBLBLBLBLBL.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Blue Morning.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Boredom.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\BREAKING NEWS.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Brother.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\bubbleloop.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\BUSTED.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Butterfly_Junk.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\buzzwave.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\can&#039;t stop.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\cant believe trump.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\capital wasteland.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\catbox.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Cee-Lo Greens Deep Fark Fantasy.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Celty_Stur.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\cereal and milk.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Chaplin Speech.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Ciron.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\click here to frown.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\click here to smile.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Click here to s̯̳͉̫͈̭ͮͮͥ͝ͅṃ̨ͦͧ͛̀̚i̢̮̹͙l̙̙̠͆̄͒̌͗͢ͅͅe͉̙͙͓̜̟̭̽͠.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\coastal ride.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Coffee Girl.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\College.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Could_.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Cute J-Girls Saying Cute Thing.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\dagobah_quiet_country_cafe.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Dagumi_Running towards the 90s.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\damnitshia.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Dance Dance.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\DanceOfTheFlowers.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\day.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Deadmau5 x Dango.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Death Metal Rooster.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\DMX-WTHA.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\DO IT-CON.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\DO-THE-FUNK.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\dog pleasure night.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\dogdial.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Don-'t drop that tuturu.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\dont go.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\down.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\do_it_circulation.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Dragon.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Draw_With_Me_by_Mikeinel.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ebichu.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\eden.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\entropy.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\exdelivers.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Faces.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\falcoooooooooo.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\fallen angel.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\feeling-it.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\feels.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\fibulafight.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\FishingForControl (1).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Flashing.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\flashing_lights.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\FluShotsGiveYouDopeMoves.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\food.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\forgive_me.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\garden of forbidden love.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Get Down On It.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\GeT_RiGhT.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\glorious.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Godhands.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Godot.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Good old days.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Gotta Go Fast In His World.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\grapist.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Happiest thing ever.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Haruhi_gum_commercial.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hat.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\heart-to-heart.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\heartbreaking Dog monologue.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hello.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hiding place.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\HIGH TENSION JAPANESE GOBLIN.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hitori bochi.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hold_and_lean.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Holy fuck this song.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Home..swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hop_hop_popura.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\hot_loli_trapped_in_hazardous_sandstrøm.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\how to get girls at the mall.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I dont need to see you right now.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I Got Heebie Jeebies.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I Hate Myself.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I JUST WANTED TO PLAY MONOPOLY.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I said never give up.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\I want to know.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\icarusproudbottomteachestyping.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ichinisan.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\idylly.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\illin and chillin.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\illya HQ.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\INTERIOR_CROCODILE_ALLIGATOR.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\It&#039;s not my fault I hate everyone.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\It&#039;s Raining Somewhere Else.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Jimmies.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\jugenmujugen.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\JUST DO IT.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Just sitting here.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Kawaii princessu.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Kokoro Dream.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\laughing-whores.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Learnin the Blues.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\lie on the ground and feel like vaporwave.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\LIQUID SLAM!.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\little witch dance.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\littlecactus.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Local 58 Weather.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\loli getting slammed.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\look at these chickens.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\love_eternal.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic) Pt. 4.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic) Pt. 6.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\M. Hisataakaa - 風の通り道 『となりのトトロ』より.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\machinery.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Madotsuki drugged out.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\magical thorn.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Maid Loading V2.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Maid Loading.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mange.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\manko.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\massive attack - paradise circus.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mayoi.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mechanicalkeyboardexe.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\medicine_.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Mend The World.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Merica.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Midnight-Mononoke.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Mmm, Fried Pig Pussy!.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mmmmh.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mmmyeah.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mnm.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mogelbaum.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Moms_spaghetti.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\monsters.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\moon.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\moon_dreams.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\mosessupposes.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\motivational_isabelle.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\murica.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\My favorite things.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\nekomarch.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\nine.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Ninja Re Bang Bang.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nip Kid Gets Bullied To Death.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nitori_GETDOWN.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\no worries.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\nodaytoday.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\not feelin it 2.0.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nothing left.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nothing To Worry About.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nuclear.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Nyaruko san has encountered a serious error.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\one more kiss.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Orehafuzaketeruyo.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Paradise.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\PartyVan.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\passing time.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\paul allen&#039;s card.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\pensive_party_brown.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\perception.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\pixelofthecolossus.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Places to be.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Platinum Mukatsuku.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Poison Lips.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\pokemon-girls.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\PomppuFiilis.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Private Life.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\PS4 IN A NUTSHELL.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\puffyhuffypersona.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Rail Whores!.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Rainy Ballades.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Rainy Season.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Rapeman Forever.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\rattleheadbob.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Razzle Dazzle.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\retail.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\rikka1.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Rina_chan_and_the_brawl_boyz.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\robot honor.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Romantic X.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\rosecamellia.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ru_tico.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Sad Cat Diary.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\saddest happy meal ever.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\samefagging.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\saucy puppet show.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Saying His Prayers.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\say_nothing.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\scratching post.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Shingeki no DW.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\SHIT.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Shivers.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\sleep_tonight.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Smoku Smoki.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\snoumu.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Snow_day.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\spectacular art contest (feat. bones).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\spook.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Spookytale TRUMPETVANIA.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\stay high.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\stay_inside.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Stitch.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\stoplesson.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Strange Ways.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\suigintoucooks.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Sullen Stew.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Summer work.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Sundrenched.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Superflat.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Temmie-get-moni-for-coleg_.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\text-to-spit.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\The Eternal Calm.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\The Red Arrow.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\THE TEFLON DON.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\thelongjourneyhome.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\This is how it goes.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\this pain is just too real.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ThisIsTheEnd1.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Thorn.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Tico.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\tiny little sparks.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Top Ramen.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\TrapScape.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Tropicana.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\trumpt.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\two cats and a snail.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\U and I.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\uhuhuhu.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Underfail.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\VANTAGE - Dat Boi.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\vordhosbn.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\waterfront.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Waves.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\We Come Together.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Weekly Inside Joke.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Welcome to crazytown.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Welcome_to_Japan.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\WEW12EW17EWKOLOOOOORRRIN3333555-666-_PARTT_......444444.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\What Have We Done.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\what lurks beneath.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\what_we_see.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\When someone posts loli.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\WhenYouFallFromGraceItsALongWayDown.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\whisperweeaboo.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\whosethatpokemon.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\why run in heels.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Why.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\wishes 2.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\wishes.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\WOAH.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Woof Woof Woofs - Dogs Will Roll (A-Trak Remix).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\you are blue now.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Young.and.Beautiful.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Your Party Sucks.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\yourheadexplode.sfw.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\yugi.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\yui_practice.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Yuki-Chan.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Yume Nikki Secret Theater.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\z0r-de_7037.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ρℓαι∂.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\Волчица и пряности - Opening (Русский дубляж).swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\♄.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ねむい めんどい 帰りたい.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\わたしはここ.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\アホな走り集.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ドット絵ミクでsm12855300.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\リサフランク.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\街は.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\𝒮𝓇𝑒𝑒𝓅.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\𝓓𝓡𝓔𝓐𝓜 𝓕𝓔𝓔𝓣.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\swf\ＣＲＩＳＩＳ.swf
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\libsodium.dll
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\opus.dll
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\NAudio.dll
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\NAudio.xml
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\Rain Smell.mp3
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\悲しみのラッキースター.mp3
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\intro.mp3
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\I Will.mp3
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\Good Ass Intro.mp3
+C:\Users\peppe_000\documents\visual studio 2015\Projects\vendingmachine\vendingmachine\bin\Debug\mu\adrenaline.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\vendingmachine.exe.config
+E:\Bots\vendingmachine\vendingmachine\obj\Debug\vendingmachine.exe
+E:\Bots\vendingmachine\vendingmachine\obj\Debug\vendingmachine.pdb
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\(ﾉ＾∇＾)ﾉ☎------[](;￣Д￣).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\0x40 Hues of Halloween.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\10men1pussy.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\11210946_43498671668.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\12392133_1005383992867412_2021627433_n.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\1996.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\4chan trash talk.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\4chans English Lessons..swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\6RainyMorning.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\A woman walking.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\afterglow.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\airpressure.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\All In The Value.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\all you can do is live with it.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\AMV - Do you take it.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\anime skeleton.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Anon and his bro.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Another Heart Breaks.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Another One.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\antidisestablishmentarianism.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\April_12th.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\aquarian field WIP.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Araragi kun.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\are you that woman.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Aria.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Arita.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\asking the real questions.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Assylum Demon.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\attack on blacks - japan(1).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\attack on home run derby.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\aussie have talent.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Baby I&#039;m Yours.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\backyard_beats.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\BADTIME.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Ball Star.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Bebop Blues.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Beef Stroganoff.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Before You Snap.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\BERZERKAAAR.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Best of Pixel Maritan.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Birdmania Reach.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\black dance.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\BLBLBLBLBLLBLBLBLBLBLBLBLBLLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLBLLBLBLBLBLBLBLBLBLBLBLBLBLBL.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Blue Morning.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Boredom.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\BREAKING NEWS.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Brother.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\bubbleloop.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\BUSTED.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Butterfly_Junk.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\buzzwave.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\can&#039;t stop.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\cant believe trump.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\capital wasteland.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\catbox.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Cee-Lo Greens Deep Fark Fantasy.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Celty_Stur.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\cereal and milk.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Chaplin Speech.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Ciron.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\click here to frown.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\click here to smile.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Click here to s̯̳͉̫͈̭ͮͮͥ͝ͅṃ̨ͦͧ͛̀̚i̢̮̹͙l̙̙̠͆̄͒̌͗͢ͅͅe͉̙͙͓̜̟̭̽͠.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\coastal ride.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Coffee Girl.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\College.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Could_.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Cute J-Girls Saying Cute Thing.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\dagobah_quiet_country_cafe.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Dagumi_Running towards the 90s.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\damnitshia.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Dance Dance.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\DanceOfTheFlowers.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\day.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Deadmau5 x Dango.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Death Metal Rooster.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\DMX-WTHA.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\DO IT-CON.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\DO-THE-FUNK.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\dog pleasure night.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\dogdial.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Don-'t drop that tuturu.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\dont go.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\down.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\do_it_circulation.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Dragon.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Draw_With_Me_by_Mikeinel.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ebichu.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\eden.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\entropy.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\exdelivers.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Faces.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\falcoooooooooo.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\fallen angel.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\feeling-it.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\feels.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\fibulafight.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\FishingForControl (1).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Flashing.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\flashing_lights.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\FluShotsGiveYouDopeMoves.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\food.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\forgive_me.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\garden of forbidden love.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Get Down On It.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\GeT_RiGhT.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\glorious.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Godhands.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Godot.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Good old days.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Gotta Go Fast In His World.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\grapist.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Happiest thing ever.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Haruhi_gum_commercial.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hat.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\heart-to-heart.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\heartbreaking Dog monologue.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hello.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hiding place.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\HIGH TENSION JAPANESE GOBLIN.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hitori bochi.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hold_and_lean.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Holy fuck this song.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Home..swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hop_hop_popura.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\hot_loli_trapped_in_hazardous_sandstrøm.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\how to get girls at the mall.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I dont need to see you right now.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I Got Heebie Jeebies.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I Hate Myself.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I JUST WANTED TO PLAY MONOPOLY.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I said never give up.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\I want to know.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\icarusproudbottomteachestyping.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ichinisan.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\idylly.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\illin and chillin.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\illya HQ.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\INTERIOR_CROCODILE_ALLIGATOR.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\It&#039;s not my fault I hate everyone.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\It&#039;s Raining Somewhere Else.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Jimmies.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\jugenmujugen.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\JUST DO IT.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Just sitting here.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Kawaii princessu.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Kokoro Dream.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\laughing-whores.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Learnin the Blues.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\lie on the ground and feel like vaporwave.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\LIQUID SLAM!.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\little witch dance.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\littlecactus.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Local 58 Weather.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\loli getting slammed.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\look at these chickens.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\love_eternal.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic) Pt. 4.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic) Pt. 6.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\luv(sic).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\M. Hisataakaa - 風の通り道 『となりのトトロ』より.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\machinery.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Madotsuki drugged out.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\magical thorn.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Maid Loading V2.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Maid Loading.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mange.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\manko.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\massive attack - paradise circus.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mayoi.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mechanicalkeyboardexe.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\medicine_.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Mend The World.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Merica.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Midnight-Mononoke.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Mmm, Fried Pig Pussy!.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mmmmh.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mmmyeah.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mnm.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mogelbaum.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Moms_spaghetti.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\monsters.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\moon.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\moon_dreams.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\mosessupposes.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\motivational_isabelle.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\murica.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\My favorite things.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\nekomarch.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\nine.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Ninja Re Bang Bang.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nip Kid Gets Bullied To Death.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nitori_GETDOWN.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\no worries.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\nodaytoday.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\not feelin it 2.0.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nothing left.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nothing To Worry About.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nuclear.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Nyaruko san has encountered a serious error.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\one more kiss.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Orehafuzaketeruyo.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Paradise.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\PartyVan.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\passing time.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\paul allen&#039;s card.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\pensive_party_brown.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\perception.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\pixelofthecolossus.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Places to be.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Platinum Mukatsuku.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Poison Lips.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\pokemon-girls.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\PomppuFiilis.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Private Life.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\PS4 IN A NUTSHELL.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\puffyhuffypersona.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Rail Whores!.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Rainy Ballades.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Rainy Season.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Rapeman Forever.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\rattleheadbob.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Razzle Dazzle.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\retail.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\rikka1.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Rina_chan_and_the_brawl_boyz.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\robot honor.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Romantic X.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\rosecamellia.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ru_tico.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Sad Cat Diary.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\saddest happy meal ever.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\samefagging.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\saucy puppet show.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Saying His Prayers.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\say_nothing.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\scratching post.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Shingeki no DW.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\SHIT.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Shivers.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\sleep_tonight.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Smoku Smoki.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\snoumu.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Snow_day.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\spectacular art contest (feat. bones).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\spook.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Spookytale TRUMPETVANIA.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\stay high.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\stay_inside.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Stitch.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\stoplesson.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Strange Ways.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\suigintoucooks.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Sullen Stew.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Summer work.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Sundrenched.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Superflat.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Temmie-get-moni-for-coleg_.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\text-to-spit.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\The Eternal Calm.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\The Red Arrow.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\THE TEFLON DON.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\thelongjourneyhome.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\This is how it goes.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\this pain is just too real.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ThisIsTheEnd1.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Thorn.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Tico.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\tiny little sparks.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Top Ramen.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\TrapScape.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Tropicana.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\trumpt.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\two cats and a snail.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\U and I.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\uhuhuhu.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Underfail.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\VANTAGE - Dat Boi.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\vordhosbn.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\waterfront.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Waves.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\We Come Together.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Weekly Inside Joke.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Welcome to crazytown.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Welcome_to_Japan.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\WEW12EW17EWKOLOOOOORRRIN3333555-666-_PARTT_......444444.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\What Have We Done.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\what lurks beneath.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\what_we_see.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\When someone posts loli.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\WhenYouFallFromGraceItsALongWayDown.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\whisperweeaboo.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\whosethatpokemon.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\why run in heels.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Why.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\wishes 2.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\wishes.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\WOAH.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Woof Woof Woofs - Dogs Will Roll (A-Trak Remix).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\you are blue now.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Young.and.Beautiful.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Your Party Sucks.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\yourheadexplode.sfw.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\yugi.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\yui_practice.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Yuki-Chan.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Yume Nikki Secret Theater.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\z0r-de_7037.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ρℓαι∂.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\Волчица и пряности - Opening (Русский дубляж).swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\♄.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ねむい めんどい 帰りたい.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\わたしはここ.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\アホな走り集.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ドット絵ミクでsm12855300.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\リサフランク.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\街は.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\𝒮𝓇𝑒𝑒𝓅.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\𝓓𝓡𝓔𝓐𝓜 𝓕𝓔𝓔𝓣.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\swf\ＣＲＩＳＩＳ.swf
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\venpics\test.png
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\venpics\test1.jpg
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\libsodium.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\opus.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\vendingmachine.exe
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\vendingmachine.pdb
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Discord.Net.Audio.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Discord.Net.Commands.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Discord.Net.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\NAudio.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Newtonsoft.Json.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\RestSharp.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\WebSocket4Net.dll
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\NAudio.xml
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Newtonsoft.Json.xml
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.xml
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\RestSharp.xml
+E:\Bots\vendingmachine\vendingmachine\obj\Debug\vendingmachine.csprojResolveAssemblyReference.cache
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Overgrown.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\I Am Sold.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Life Round Here.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Take a Fall For Me.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Retrograde.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Dlm.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Digital Lion.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Voyeur.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\To the Last.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Our Love Comes Back.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Overgrown\Every Day I Ran.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\いきのこり●ぼくら.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\iam POD.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\Mars 2027.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\いりぐちでぐち.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\うたのけはい.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\機械仕掛乃宇宙.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\四月の支度.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\0\はるなつあきふゆ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Had We Known Better\I just wanted to make you something beautiful.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Worsening.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Miasma Sky.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Ironworks.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Ossuary.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Incompatible.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\No Eyes.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Phaedra.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\No Past Lives.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Earth Death.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Obsidian\Inter.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Had We Known Better\Waiting and waltzing in airport terminals.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Had We Known Better\The lights weren't that bright, but our eyes were so tired.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\IMPERIAL SMOKE TOWN.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\Mars 2027.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\STAR FRUITS SURF RIDER.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\日時計.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\不和リン.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\レースのむこう.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\重たい睫毛.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\奇跡はいつでも.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\悲しみのラッキースター.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Radio\Smile.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\3んびきのくま.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\IMPERIAL SMOKE TOWN.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\あなたのかざり.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\かなしいゆめをみたら.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\ひかりのふるさと.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\奇跡はいつでも.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\私の盗人.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\うたびこ\裸足の庭.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\さみしいかまさま\ShibuyaK.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\さみしいかまさま\さみしいかみさま.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\さみしいかまさま\ゆめみてたのあたし.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\The Last Fine Day of My Life.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Honeyguide Symphony.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Prospectors in Wonderland.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\A Fake Hierarchy of Chaos.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Business Affairs.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Subliminal Jackson.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Cognitive Dissonance.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Boys in Native Dress.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\Song You Sang in My Dream.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\A False Dawn and Posthumous Notoriety\When My Kids Stop Singing.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Setting Forth.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\No Ceiling.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Far Behind.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Rise.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Long Nights.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Tuolumne.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Hard Sun.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Society.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\The Wolf.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\End Of The Road.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Into The Wild\Guaranteed.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Song 1.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Zen Approach.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Danger Of Love.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Sonic Traveler.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Duck Chase.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Vision Of Art.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Day's End.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\With Grace.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Candle Chant.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Endless Railway.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Whut'z Da Solution.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Zen\Paradise Bird Theory.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\The First Daffodils.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Dye the Water Green.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Wulf.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Mirroring All.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\A tout a l'heure.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Sycamore Silhouetting.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\You.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Raincoat.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Look at Orion!.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\Business Park.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Silver Wilkinson\You Won't Remember....mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Apologetic Shoulderblades.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Maximalist.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\♥.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Rafting Starlit Everglades.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Aminals.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Indoorsy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\You're My Excuse to Travel.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Rain Smell.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Seaside Town.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Mecha Joy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Palatial Disappointment.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Departure.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cerulean\Hall.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\不和リン.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\ココロノセカイ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\ポシェットのおうた.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\重たい睫毛.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\路標.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\光蜥蜴.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\遠いあこがれ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\剃刀乙女\腸髪のサーカス.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\少女と檻.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\灰色の日.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\パッチワーク.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\レースのむこう.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\つよくなる.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\おもいでカフェ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\日時計.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\檻髪\繙く風.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Good morning.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Life will be better.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Gypsy soul.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Dance with me.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\One day in the past.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Be for you.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Shadow of dream.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\See you soon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Until the end.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Lament song.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Feelingly.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\You don't know.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Don't explain.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\So rare.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Everything.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\Don't forget me.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\After August\After August.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\intro.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\late for work.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\barney kessel.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\reservations.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\smooth sensations.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\guitar.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\goodmorning beats.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\everytime.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\laidback.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\relaxin.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\straight soul.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\jaz..mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\birds.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\bust.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\chillout.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\kiss me in the rain.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\what would you do.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\feelings.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\choppin.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\COOL2CHILL\nujabes.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\恋せよ、破天荒.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\メロエロ エロメロメロメロエ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\0.01 ミリの宇宙.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\メガネ男子.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\進撃.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\HのつぎはI\ラストラブシーン.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Blessing It.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Horn in the Middle.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Lady Brown.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Kumomi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Highs 2 Lows.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Beat Laments the World.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Letter From Yokosuka.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Think Different.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\A Day by Atmosphere Supreme.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Next View.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Latitude.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\F.I.L.O..mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Summer Gypsy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\The Final View.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Metaphorical Music\Peaceland.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Feather.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Ordinary Joe.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Reflection Eternal.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Luv (Sic) Pt3.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Music Is Mine.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Eclipse.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Sign.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Thank You.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Worlds End Rhapsody.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Modal Soul.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Flowers.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Sea Of Cloud.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Light On The Land.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Modal Soul\Horizon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\天地創造Sos.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\ケルベロス.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\ウルトラソーダ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\わたしがわたし.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\13番目の彼女.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\弁天様はスピリチュア.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\夏至.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\ベルリン天使.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\とあるAround.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\おやすみ地球.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Tensei Jingle\Flashback.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Tree Sulking.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Movies in the Aura.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Unshungunjujh.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Come Back to Life.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\^v.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Modern Figure.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\Spiritual Labor.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\VI\A Ritual Burial.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\MAGA.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\f.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\08 Track 8.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\09 Track 9.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\3 In One.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\80's Freestyle.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\Back to the Old days Featureing Cody, Goast Freak, Anubis.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\How I Feel.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\Intro.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\Its My time.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Ducky\Rare A-S Demo 1.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Shining Star.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\That's the Way of the World.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\September.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Can't Hide Love.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Got To Get You Into My Life.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Sing a Song.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Gratitude.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Serpentine Fire.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Fantasy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Kalimba Story.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Mighty Mighty.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Reasons.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Saturday Night.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Let's Groove.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Boogie Wonderland.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\After The Love Has Gone.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\EWF\Getaway.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\give your love.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\Tara.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\faineant pt.1.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\faineant pt. 2.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\d-wave suite.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\seagull dreams.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\sea loops.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\memory.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\six hours.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\more about rhododendron.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\in the air.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\interlude.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\5am on the great highway.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Sleep Cycles\the destroyer of worlds.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\01 안녕.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\02 MCV.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\03 파고듦.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\04 I've been here, we've been here.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\05 멕시코행 고속열차.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\06 시베리아나.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Oorineun Sokotdo Saenggyutgo Yujado Neurutdanae\07 Bluemoon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\01 - All That Jazz - Kaze No Toorimichi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\01 - All That Jazz - Kimi Wo Nosete.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\01 - All That Jazz - Tank!.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\01 - Chet Baker - My Funny Valentine.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\02 - All That Jazz - Haretahini.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\02 - All That Jazz - Sakura 2.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\02 - All That Jazz - Umi No Mieru Machi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\02 - All That Jazz - We Are.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\02 - Chet Baker - Summertime.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\03 - All That Jazz - Mune Ga Dokidoki.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\03 - All That Jazz - Sanpo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\03 - All That Jazz - Umi No Mieru Machi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\03 - All That Jazz - Yasasisa Ni Tsutsumaretanara.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\03 - Chet Baker - Look for the Silver Lining.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\04 - All That Jazz - Hohoemi No Bakudan.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\04 - All That Jazz - Kaze No Toorimichi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\04 - All That Jazz - Kiseki.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\04 - All That Jazz - Sora Kara Futtekita Shoujyo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\04 - Chet Baker - Alone Together.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\05 - All That Jazz - Meguru Kisetsu.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\05 - All That Jazz - Sakura 1.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\05 - All That Jazz - Tonari No Totoro.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\05 - All That Jazz - Venus To Jesus.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\05 - Chet Baker - All the Things You Are.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\06 - All That Jazz - Ashitaka Sekki.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\06 - All That Jazz - Days.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\06 - All That Jazz - Go! Go! Maniac.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\06 - All That Jazz - Jinsei No Merry Go Land.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\06 - Chet Baker - But Not for Me.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\07 - All That Jazz - Ai Ha Hana Kimi Ha Sono Syushi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\07 - All That Jazz - Country Road.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\07 - All That Jazz - Days.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\07 - All That Jazz - One.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\07 - Chet Baker - I Fall in Love Too Easily.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\08 - All That Jazz - Mononokehime.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\08 - All That Jazz - Moonlight Densetsu.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\08 - All That Jazz - Neko Bus.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\08 - All That Jazz - Sayonara Bus.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\08 - Chet Baker - I Remember You.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\09 - All That Jazz - Bokutachi Ha Tenshi Datta.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\09 - All That Jazz - Kaze No Tani No Nausika.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\09 - All That Jazz - Sorakara Futte Kita Shoujo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\09 - All That Jazz - Teru No Uta.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\09 - Chet Baker - Long Go and Far Away.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\10 - All That Jazz - Ano Natsu He.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\10 - All That Jazz - Fly Me to the Moon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\10 - All That Jazz - Komm_ Susser Tod _ Amaki Shi Yo Kitare.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\10 - All That Jazz - Nausika Rekuiemu.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\10 - Chet Baker - Lullaby of the Leaves.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\11 - All That Jazz - Itsumo Nandodemo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\11 - All That Jazz - Kibou No Wadachi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\11 - All That Jazz - Toki Ni Ha Mukasi No Hanashi Wo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\11 - Chet Baker - Moonlight in Vermont.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\12 - All That Jazz - Everything.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\12 - All That Jazz - Gake No Ue No Ponyo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\12 - All That Jazz - Kaze No Densetsu.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\12 - Chet Baker - Sonny Boy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\13 - All That Jazz - Arrietty's Song.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\13 - All That Jazz - Itsumo Nando Demo.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\13 - Chet Baker - The Thrill Is Gone.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\14 - All That Jazz - Joy.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\14 - All That Jazz - Sekai No Yakusoku.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\14 - Chet Baker - Time After Time.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\15 - All That Jazz - Ashitakasekki.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\15 - Chet Baker - You Don't Know What Love Is.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\16 - All That Jazz - Fly Me to the Moon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\17 - All That Jazz - Countryroad.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\18 - Anime That Jazz - Nibun No Ichi.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\19 - All That Jazz - Butterfly.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\20 - All That Jazz - Swallowtail Butterfly Ai No Uta.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\21 - All That Jazz - Hareta HI Ni.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\22 - All That Jazz - Winding Road.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\23 - All That Jazz - Traveling.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\24 - Anime That Jazz - Rouge No Dengon.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\25 - All That Jazz - Pop Star.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\26 - All That Jazz - Sakura 3.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\27 - All That Jazz - My Heart Will Go On.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\28 - All That Jazz - Will.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\29 - All That Jazz - Mirai Yosouzu 2.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Jazz\30 - All That Jazz - Kanade.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\01 - Broder John - Ingenting.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\02 - Broder John - Snacket.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\03 - Broder John - GFM.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\04 - Broder John - zoom zoom.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\05 - Broder John - Truppen.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\06 - Broder John - Fokus.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\07 - Broder John - håll upp.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\08 - Broder John - Trubbel (vi har det).mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\09 - Broder John - Cool.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\10 - Broder John - Definition.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Cool\11 - Broder John - Vem ar du.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Rhubarb.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\ily.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 01 Patrick Ewing.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 02 Brobocop.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 03 Yeah!- What's It Tuba!-.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 04 Untitled #6.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 05 New Computers.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 06 Bernie Mac Attack.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 07 Chex Urself B4 U Rex Urself.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 08 Untitled #3.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 09 The Apocalypse Made Me Brave.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 10 Untitled #5.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\Girlfriends\Girlfriends - Girlfriends - 11 End.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\mu\toe - グッドバイ.mp3
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\venpics\callumtoasted.png
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\venpics\nicholastoasted.png
+E:\Bots\vendingmachine\vendingmachine\bin\Debug\venpics\tylertoasted.png
+E:\Git\DiscordBot\vendingmachine\bin\Debug\vendingmachine.exe.config
+E:\Git\DiscordBot\vendingmachine\obj\Debug\vendingmachine.exe
+E:\Git\DiscordBot\vendingmachine\obj\Debug\vendingmachine.pdb
